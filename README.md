@@ -98,7 +98,7 @@ Hello everyone , I have completed project 1 called "Insertion Sort Project" whic
 
 # Binary Search Tree Project
 
-Hello everyone , I have completed project 1 called "Insertion Sort Project" which organized by [Patika.dev](https://www.patika.dev/tr)
+I have completed project 1 called "Insertion Sort Project" which organized by [Patika.dev](https://www.patika.dev/tr)
 
 ## Project 3
 
